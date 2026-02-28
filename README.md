@@ -42,11 +42,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveeshakalanka&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveeshakalanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshakalanka&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshakalanka&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌱 Currently Learning
 
