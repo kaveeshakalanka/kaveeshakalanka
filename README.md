@@ -46,9 +46,6 @@
   <img height="165" src="https://streak-stats.demolab.com?user=kaveeshakalanka&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaveeshakalanka&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🌱 Currently Learning
 
